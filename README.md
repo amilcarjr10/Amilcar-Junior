@@ -1,41 +1,60 @@
-<h1>Hi, I'm Amilcar Junior! <br/><a href="https://github.com/Amilcar-Junior">Programmer</a>, <a href="https://www.linkedin.com/in/amilcarjr10/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@CyberLinuxAcademy/">YouTuber</a></h1>
+# Amilcar Junior
 
-<h2>👨‍💻 Cibersecurity Projects:</h2>
+**Programador | Profissional de Cibersegurança | Criador de conteúdo técnico**
 
+Este repositório reúne meu portfólio prático em tecnologia, cibersegurança, sistemas operacionais, computação em nuvem e administração de infraestrutura. Os projetos estão organizados por diretórios independentes, cada um com uma descrição própria e seus respectivos materiais técnicos.
 
-  - [Active Directory Home Lab](https://github.com/Amilcar-Junior/LABURL)
-    
-  - <h2>Certificationss</h2>
+## Projetos técnicos
 
-- [Google Cibersecurity ](https://www.youtube.com/watch?v=a83ASGn_V_s)
+Abaixo estão os relatórios desenvolvidos em laboratórios práticos, com foco em aplicação de conceitos, documentação técnica e resolução de cenários de infraestrutura.
 
-<h2>📺 Popular YouTube Videos</h2>
+| Projeto | Área principal | Competências demonstradas | Documentação |
+| --- | --- | --- | --- |
+| [Administração de Ambiente Virtualizado — AutoGalo](./projetos/virtualizacao-autogalo/) | Virtualização | Diagnóstico de falhas, provisionamento de VM e monitoramento de hosts | [Relatório em PDF](./projetos/virtualizacao-autogalo/relatorio-virtualizacao-autogalo.pdf) |
+| [Implantação de Ambiente em Nuvem — EC2](./projetos/cloud-computing-ec2/) | Cloud Computing | IaaS, escolha de região, provisionamento de instâncias e otimização de custos | [Relatório em PDF](./projetos/cloud-computing-ec2/relatorio-cloud-computing-ec2.pdf) |
+| [Fundamentos de Sistemas Operacionais](./projetos/fundamentos-sistemas-operacionais/) | Sistemas Operacionais | Investigação de hardware, interfaces GUI/CLI, processos e estrutura de arquivos | [Relatório em PDF](./projetos/fundamentos-sistemas-operacionais/relatorio-fundamentos-sistemas-operacionais.pdf) |
+| [Noções Básicas do Windows](./projetos/nocoes-basicas-windows/) | Windows | Onboarding, contas, arquivos, aplicativos, monitoramento e segurança | [Relatório em PDF](./projetos/nocoes-basicas-windows/relatorio-nocoes-basicas-windows.pdf) |
+| [Fundamentos de Linux via Linha de Comando](./projetos/fundamentos-linux-cli/) | Linux e Operações | Navegação de diretórios, busca com `find` e coleta de informações do sistema | [Relatório em PDF](./projetos/fundamentos-linux-cli/relatorio-fundamentos-linux-cli.pdf) |
 
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+> **Como navegar:** acesse o diretório de qualquer projeto para consultar o contexto, as atividades realizadas, as competências praticadas e o relatório técnico completo.
 
-<h2> 🤳 Connect with me:</h2>
+## Outros projetos e estudos
 
-[<img align="left" alt="Amilcar-Junior | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+- [Active Directory Home Lab](https://github.com/Amilcar-Junior/LABURL) — laboratório voltado à criação e administração de um ambiente de domínio.
+- [Google Cybersecurity](https://www.youtube.com/watch?v=a83ASGn_V_s) — conteúdo relacionado aos estudos em cibersegurança.
 
-[<img align="left" alt="Amilcar-Junior | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Amilcar-Junior | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Organização do repositório
 
+```text
+.
+├── README.md
+└── projetos/
+    ├── README.md
+    ├── virtualizacao-autogalo/
+    │   ├── README.md
+    │   └── relatorio-virtualizacao-autogalo.pdf
+    ├── cloud-computing-ec2/
+    │   ├── README.md
+    │   └── relatorio-cloud-computing-ec2.pdf
+    ├── fundamentos-sistemas-operacionais/
+    │   ├── README.md
+    │   └── relatorio-fundamentos-sistemas-operacionais.pdf
+    ├── nocoes-basicas-windows/
+    │   ├── README.md
+    │   └── relatorio-nocoes-basicas-windows.pdf
+    └── fundamentos-linux-cli/
+        ├── README.md
+        └── relatorio-fundamentos-linux-cli.pdf
+```
 
-[youtube]: https://www.youtube.com/@CyberLinuxAcademy
-[instagram]: https://www.instagram.com/amilcarjr10/
-[linkedin]: https://linkedin.com/in/amilcarjr10/
+A pasta [`projetos/`](./projetos/) contém as orientações para adicionar novos trabalhos seguindo o mesmo padrão de organização.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conteúdo e contato
 
-Here are some ideas to get you started:
+- [YouTube — CyberLinux Academy](https://www.youtube.com/@CyberLinuxAcademy)
+- [LinkedIn](https://linkedin.com/in/amilcarjr10/)
+- [Instagram](https://www.instagram.com/amilcarjr10/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Licença e uso
+
+Os relatórios são materiais autorais de estudo e portfólio. Para reutilização, adaptação ou publicação em outro contexto, entre em contato previamente.
