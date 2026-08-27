@@ -1,154 +1,24 @@
 # Amilcar Júnior
 
-
-
-### Analista de Sistemas | Segurança da Informação | MSS, Blue Team e Infraestrutura
-
-
-
-[LinkedIn](https://www.linkedin.com/in/amilcarjr10/) | [E-mail](mailto:amilcarjr10@hotmail.com) | [Telefone](tel:+5513981376496) | [GitHub](https://github.com/amilcarjr10) | [YouTube — CyberLinux Academy](https://www.youtube.com/@CyberLinuxAcademy)
-
-
-
-Profissional de Tecnologia da Informação com mais de dois anos de experiência em suporte técnico, sustentação de sistemas, troubleshooting, gestão de acessos e atendimento a clientes. Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Cibersegurança, direciono minha carreira para operações de Segurança da Informação, com foco em **MSS, SOC e Blue Team**.
-
-
-
-Minha experiência profissional fornece a base operacional exigida em ambientes de segurança: tratamento de chamados, priorização por impacto, cumprimento de SLA, diagnóstico de incidentes, documentação técnica, comunicação com clientes e colaboração com equipes técnicas.
-
-
-
-> **Objetivo profissional:** atuar como Analista de Segurança da Informação Júnior em operações MSS, SOC ou Blue Team.
-> 
-
-
----
-
-
-
-## Visão rápida
-
-
-
-- Mais de **2 anos de experiência em TI**, com evolução de estagiário a analista.
-- 
-- Experiência com **suporte N1/N2, troubleshooting, SLA e documentação de incidentes**.
-- 
-- Conhecimentos em **Linux, Windows, redes, IAM, hardening e monitoramento**.
-- 
-- Prática com **Zabbix, Grafana, SQL, Metabase, APIs REST e Git/GitHub**.
-- 
-- Laboratórios documentados no **TryHackMe** e estudos de Blue Team no **LetsDefend**.
-- 
-- Nove projetos técnicos publicados com contexto, evidências, análise e conclusão.
-- 
-
-
----
-
-
-
-## Projetos em destaque
-
-
-
-### 1. [Administração de Ambiente Virtualizado — AutoGalo](./projetos/virtualizacao-autogalo/)
-
-
-
-Laboratório de operação de infraestrutura virtualizada, com diagnóstico de uma falha crítica no servidor de e-mail, reinício controlado da máquina virtual, validação do restabelecimento do serviço, provisionamento de nova VM e análise de capacidade dos hosts.
-
-
-
-**Competências demonstradas:** triagem de incidente, troubleshooting, identificação de causa, ação corretiva, validação, monitoramento, análise de capacidade e documentação técnica.
-
-
-
-[Consultar relatório técnico](./projetos/virtualizacao-autogalo/relatorio-virtualizacao-autogalo.pdf)
-
-
-
-### 2. [Fundamentos de Linux via Linha de Comando](./projetos/fundamentos-linux-cli/)
-
-
-
-Investigação prática de um ambiente Linux utilizando a linha de comando para navegação, localização de arquivos, identificação do usuário, verificação do kernel, coleta de informações do sistema e análise do uso de disco.
-
-
-
-**Competências demonstradas:** Linux, CLI, sistema de arquivos, `find`, `whoami`, `uname`, `df`, coleta de evidências e documentação operacional.
-
-
-
-[Consultar relatório técnico](./projetos/fundamentos-linux-cli/relatorio-fundamentos-linux-cli.pdf)
-
-
-
-### 3. [Implantação de Ambiente em Nuvem — EC2](./projetos/cloud-computing-ec2/)
-
-
-
-Provisionamento de instâncias em um ambiente IaaS semelhante à AWS, escolha de região, dimensionamento de recursos e interrupção de máquinas ociosas para reduzir custos operacionais.
-
-
-
-**Competências demonstradas:** cloud computing, IaaS, EC2, provisionamento, operação de infraestrutura e otimização de custos.
-
-
-
-[Consultar relatório técnico](./projetos/cloud-computing-ec2/relatorio-cloud-computing-ec2.pdf)
-
-
-
-### 4. [Segurança de Sistemas Operacionais](./projetos/seguranca-sistemas-operacionais/)
-
-
-
-Estudo de caso autorizado sobre autenticação fraca, exposição de credenciais no histórico de comandos, acesso SSH e escalonamento controlado de privilégios em ambiente de laboratório.
-
-
-
-**Competências demonstradas:** autenticação, SSH, análise de exposição de credenciais, menor privilégio, hardening, investigação técnica e documentação de incidentes.
-
-
-
-[Consultar relatório técnico](./projetos/seguranca-sistemas-operacionais/relatorio-seguranca-sistemas-operacionais.pdf)
-
-
-
-### 5. [Fundamentos de Redes](./projetos/fundamentos-redes/)
-
-
-
-Laboratório sobre encaminhamento de portas, firewalls, VPNs, roteadores, switches e VLANs, com aplicação prática em um simulador de rede e observação do fluxo de pacotes.
-
-
-
-**Competências demonstradas:** TCP/IP, port forwarding, firewalls stateful e stateless, VPN, roteamento, switching, ARP, handshake TCP e segmentação por VLAN.
-
-
-
-[Consultar relatório técnico](./projetos/fundamentos-redes/relatorio-fundamentos-redes.pdf)
-
 ### Analista de Sistemas | Segurança da Informação | MSS, Blue Team e Infraestrutura
 
 [LinkedIn](https://www.linkedin.com/in/amilcarjr10/) | [E-mail](mailto:amilcarjr10@hotmail.com) | [Telefone](tel:+5513981376496) | [GitHub](https://github.com/amilcarjr10) | [YouTube — CyberLinux Academy](https://www.youtube.com/@CyberLinuxAcademy)
 
-Profissional de Tecnologia da Informação com mais de dois anos de experiência em suporte técnico, sustentação de sistemas, troubleshooting, gestão de acessos e atendimento a clientes. Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Cibersegurança, direciono minha carreira para operações de Segurança da Informação, com foco em **MSS, SOC e Blue Team**.
+Profissional de Tecnologia da Informação com mais de dois anos de experiência em suporte técnico, sustentação de sistemas, troubleshooting, gestão de acessos e atendimento a clientes. Graduado em Análise e Desenvolvimento de Sistemas e pós-graduado em Cibersegurança, direciono minha carreira para operações de Segurança da Informação, com foco em MSS, SOC e Blue Team.
 
 Minha experiência profissional fornece a base operacional exigida em ambientes de segurança: tratamento de chamados, priorização por impacto, cumprimento de SLA, diagnóstico de incidentes, documentação técnica, comunicação com clientes e colaboração com equipes técnicas.
 
-> **Objetivo profissional:** atuar como Analista de Segurança da Informação Júnior em operações MSS, SOC ou Blue Team.
+> Objetivo profissional: atuar como Analista de Segurança da Informação Júnior em operações MSS, SOC ou Blue Team.
 
 ---
 
 ## Visão rápida
 
-- Mais de **2 anos de experiência em TI**, com evolução de estagiário a analista.
-- Experiência com **suporte N1/N2, troubleshooting, SLA e documentação de incidentes**.
-- Conhecimentos em **Linux, Windows, redes, IAM, hardening e monitoramento**.
-- Prática com **Zabbix, Grafana, SQL, Metabase, APIs REST e Git/GitHub**.
-- Laboratórios documentados no **TryHackMe** e estudos de Blue Team no **LetsDefend**.
+- Mais de 2 anos de experiência em TI, com evolução de estagiário a analista.
+- Experiência com suporte N1/N2, troubleshooting, SLA e documentação de incidentes.
+- Conhecimentos em Linux, Windows, redes, IAM, hardening e monitoramento.
+- Prática com Zabbix, Grafana, SQL, Metabase, APIs REST e Git/GitHub.
+- Laboratórios documentados no TryHackMe e estudos de Blue Team no LetsDefend.
 - Nove projetos técnicos publicados com contexto, evidências, análise e conclusão.
 
 ---
@@ -157,25 +27,25 @@ Minha experiência profissional fornece a base operacional exigida em ambientes 
 
 ### 1. [Administração de Ambiente Virtualizado — AutoGalo](./projetos/virtualizacao-autogalo/)
 
-Laboratório de operação de infraestrutura virtualizada, com diagnóstico de uma falha crítica no servidor de e-mail, reinício controlado da máquina virtual, validação do restabelecimento do serviço, provisionamento de nova VM e análise de capacidade dos hosts.
+Laboratório de operação de infraestrutura virtualizada, com diagnóstico de falha no servidor de e-mail, reinício controlado da máquina virtual, provisionamento de nova VM e análise de capacidade dos hosts.
 
-**Competências demonstradas:** triagem de incidente, troubleshooting, identificação de causa, ação corretiva, validação, monitoramento, análise de capacidade e documentação técnica.
+**Competências:** triagem de incidente, troubleshooting, virtualização, monitoramento, análise de capacidade e documentação técnica.
 
 [Consultar relatório técnico](./projetos/virtualizacao-autogalo/relatorio-virtualizacao-autogalo.pdf)
 
 ### 2. [Fundamentos de Linux via Linha de Comando](./projetos/fundamentos-linux-cli/)
 
-Investigação prática de um ambiente Linux utilizando a linha de comando para navegação, localização de arquivos, identificação do usuário, verificação do kernel, coleta de informações do sistema e análise do uso de disco.
+Investigação prática de um ambiente Linux para navegação, localização de arquivos, identificação do usuário, verificação do kernel, coleta de informações do sistema e análise do uso de disco.
 
-**Competências demonstradas:** Linux, CLI, sistema de arquivos, find, whoami, uname, df, coleta de evidências e documentação operacional.
+**Competências:** Linux, CLI, sistema de arquivos, find, whoami, uname, df e coleta de evidências.
 
 [Consultar relatório técnico](./projetos/fundamentos-linux-cli/relatorio-fundamentos-linux-cli.pdf)
 
 ### 3. [Implantação de Ambiente em Nuvem — EC2](./projetos/cloud-computing-ec2/)
 
-Provisionamento de instâncias em um ambiente IaaS semelhante à AWS, escolha de região, dimensionamento de recursos e interrupção de máquinas ociosas para reduzir custos operacionais.
+Provisionamento de instâncias em ambiente IaaS semelhante à AWS, escolha de região, dimensionamento de recursos e interrupção de máquinas ociosas para otimização de custos.
 
-**Competências demonstradas:** cloud computing, IaaS, EC2, provisionamento, operação de infraestrutura e otimização de custos.
+**Competências:** cloud computing, IaaS, EC2, provisionamento e operação de infraestrutura.
 
 [Consultar relatório técnico](./projetos/cloud-computing-ec2/relatorio-cloud-computing-ec2.pdf)
 
@@ -183,7 +53,7 @@ Provisionamento de instâncias em um ambiente IaaS semelhante à AWS, escolha de
 
 Estudo de caso autorizado sobre autenticação fraca, exposição de credenciais no histórico de comandos, acesso SSH e escalonamento controlado de privilégios em ambiente de laboratório.
 
-**Competências demonstradas:** autenticação, SSH, análise de exposição de credenciais, menor privilégio, hardening, investigação técnica e documentação de incidentes.
+**Competências:** autenticação, SSH, análise de credenciais, menor privilégio, hardening e documentação de incidentes.
 
 [Consultar relatório técnico](./projetos/seguranca-sistemas-operacionais/relatorio-seguranca-sistemas-operacionais.pdf)
 
@@ -191,7 +61,7 @@ Estudo de caso autorizado sobre autenticação fraca, exposição de credenciais
 
 Laboratório sobre encaminhamento de portas, firewalls, VPNs, roteadores, switches e VLANs, com aplicação prática em um simulador de rede e observação do fluxo de pacotes.
 
-**Competências demonstradas:** TCP/IP, port forwarding, firewalls stateful e stateless, VPN, roteamento, switching, ARP, handshake TCP e segmentação por VLAN.
+**Competências:** TCP/IP, port forwarding, firewalls stateful e stateless, VPN, roteamento, switching, ARP, handshake TCP e VLAN.
 
 [Consultar relatório técnico](./projetos/fundamentos-redes/relatorio-fundamentos-redes.pdf)
 
@@ -199,7 +69,7 @@ Laboratório sobre encaminhamento de portas, firewalls, VPNs, roteadores, switch
 
 Estudo da hierarquia de domínios, dos principais registros DNS, do processo de resolução de nomes e da realização de consultas práticas com nslookup.
 
-**Competências demonstradas:** DNS, registros A, AAAA, CNAME, MX e TXT, TTL, servidores recursivos e autoritativos, nslookup, troubleshooting e segurança de infraestrutura.
+**Competências:** DNS, registros A, AAAA, CNAME, MX e TXT, TTL, servidores recursivos e autoritativos, nslookup e troubleshooting.
 
 [Consultar relatório técnico](./projetos/fundamentos-dns/relatorio-fundamentos-dns.pdf)
 
@@ -207,7 +77,7 @@ Estudo da hierarquia de domínios, dos principais registros DNS, do processo de 
 
 Laboratório sobre HTTP e HTTPS, anatomia de URLs, requisições e respostas, métodos, códigos de status, cabeçalhos e cookies, com exercícios práticos de comunicação web.
 
-**Competências demonstradas:** HTTP/HTTPS, URLs, métodos GET/POST/PUT/DELETE, códigos de status, cabeçalhos, cookies, análise de tráfego e segurança de aplicações web.
+**Competências:** HTTP/HTTPS, URLs, métodos GET/POST/PUT/DELETE, códigos de status, cabeçalhos, cookies e segurança de aplicações web.
 
 [Consultar relatório técnico](./projetos/fundamentos-http/relatorio-fundamentos-http.pdf)
 
@@ -273,14 +143,14 @@ Na Ahgas Tecnologia, evoluí de Estagiário de TI para Analista de Sistemas, atu
 
 ## Formação e desenvolvimento
 
-- **Pós-graduação em Cibersegurança** — Faculdade Metropolitana.
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — UNIP.
-- **Técnico em Informática** — ETEC.
-- **Linux System Administrator (703)** — 4Linux.
-- **Observability and Monitoring Fundamentals** — 4Linux.
-- **Linux Fundamentals e Linux Essentials** — 4Linux.
-- **Fundamentos de Cibersegurança** — Google/Coursera.
-- Estudos práticos em **TryHackMe** e **LetsDefend**.
+- Pós-graduação em Cibersegurança — Faculdade Metropolitana.
+- Tecnólogo em Análise e Desenvolvimento de Sistemas — UNIP.
+- Técnico em Informática — ETEC.
+- Linux System Administrator (703) — 4Linux.
+- Observability and Monitoring Fundamentals — 4Linux.
+- Linux Fundamentals e Linux Essentials — 4Linux.
+- Fundamentos de Cibersegurança — Google/Coursera.
+- Estudos práticos em TryHackMe e LetsDefend.
 
 ---
 
@@ -311,13 +181,14 @@ Essa estrutura permite avaliar não somente o resultado, mas também minha capac
 
 ## Contato
 
-- **LinkedIn:** [linkedin.com/in/amilcarjr10](https://linkedin.com/in/amilcarjr10/)
-- **E-mail:** [amilcarjr10@hotmail.com](mailto:amilcarjr10@hotmail.com)
-- **Telefone/WhatsApp:** [(13) 98137-6496](tel:+5513981376496)
-- **YouTube:** [CyberLinux Academy](https://www.youtube.com/@CyberLinuxAcademy)
+- LinkedIn: [linkedin.com/in/amilcarjr10](https://linkedin.com/in/amilcarjr10/)
+- E-mail: [amilcarjr10@hotmail.com](mailto:amilcarjr10@hotmail.com)
+- Telefone/WhatsApp: [(13) 98137-6496](tel:+5513981376496)
+- YouTube: [CyberLinux Academy](https://www.youtube.com/@CyberLinuxAcademy)
 
-Estou aberto a oportunidades júnior em **Segurança da Informação, MSS, SOC, Blue Team, NOC e Infraestrutura**.
+Estou aberto a oportunidades júnior em Segurança da Informação, MSS, SOC, Blue Team, NOC e Infraestrutura.
 
 ---
 
 > Laboratórios executados exclusivamente em ambientes autorizados e destinados a estudo, desenvolvimento profissional e demonstração de competências técnicas.
+
