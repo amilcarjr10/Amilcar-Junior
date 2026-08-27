@@ -19,7 +19,7 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 - Experiência com chamados, SLA, acessos, SQL, integrações, documentação e comunicação com clientes.
 - Formação em Análise e Desenvolvimento de Sistemas e Pós-Graduação concluída em Cibersegurança.
 - Estudos práticos documentados em Linux, redes, sistemas operacionais, cloud e segurança.
-- Portfólio com nove projetos técnicos organizados em contexto, atividades, competências e documentação.
+- Portfólio com dez projetos técnicos organizados em contexto, atividades, competências e documentação.
 
 ---
 
@@ -47,16 +47,16 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 - [README do projeto](./projetos/fundamentos-redes/README.md)
 - [Relatório completo em PDF](./projetos/fundamentos-redes/relatorio-fundamentos-redes.pdf)
 
-### 3. [Operação e Diagnóstico em Linux via CLI](./projetos/fundamentos-linux-cli/README.md)
+### 3. [Análise de Segurança Web no Front-end](./projetos/seguranca-web-front-end/README.md)
 
-**Cenário:** investigação de um ambiente Linux com foco em navegação, localização de arquivos e coleta de informações do sistema pela linha de comando.
+**Cenário:** laboratório autorizado de análise de uma aplicação web vulnerável, envolvendo inspeção de código-fonte, exposição de credenciais de teste e entrada HTML não sanitizada.
 
-**Ação e resultado:** execução de comandos para navegar por diretórios, localizar arquivos, identificar o usuário, verificar o kernel e analisar o uso de disco. O projeto demonstra autonomia operacional e capacidade de coletar evidências básicas para suporte, troubleshooting e operações de segurança.
+**Ação e resultado:** análise do HTML e JavaScript com ferramentas de desenvolvedor, identificação de dados sensíveis expostos e validação controlada de HTML Injection. O projeto demonstra capacidade de investigar o comportamento de uma aplicação, registrar evidências e recomendar controles defensivos.
 
-**Competências:** Linux, CLI, sistema de arquivos, find, whoami, uname, df, coleta de evidências e documentação operacional.
+**Competências:** HTML, JavaScript, DevTools, análise de código-fonte, exposição de dados sensíveis, HTML Injection, sanitização, codificação de saída e documentação técnica.
 
-- [README do projeto](./projetos/fundamentos-linux-cli/README.md)
-- [Relatório completo em PDF](./projetos/fundamentos-linux-cli/relatorio-fundamentos-linux-cli.pdf)
+- [README do projeto](./projetos/seguranca-web-front-end/README.md)
+- [Relatório completo em PDF](./projetos/seguranca-web-front-end/relatorio-seguranca-web-front-end.pdf)
 
 ---
 
@@ -69,6 +69,7 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 | [Provisionamento e Operação de Ambiente IaaS](./projetos/cloud-computing-ec2/README.md) | Cloud computing | IaaS, instâncias, regiões e custos |
 | [Investigação de Segurança em Sistemas Linux](./projetos/seguranca-sistemas-operacionais/README.md) | Segurança da Informação | Autenticação, SSH, credenciais, privilégios e mitigação |
 | [Análise de Redes, Firewall, VPN e VLAN](./projetos/fundamentos-redes/README.md) | Redes e infraestrutura | Port forwarding, firewall, VPN, roteamento, switching e VLAN |
+| [Análise de Segurança Web no Front-end](./projetos/seguranca-web-front-end/README.md) | Segurança Web | DevTools, código-fonte, exposição de dados sensíveis, HTML Injection e mitigação |
 | [Análise e Troubleshooting de DNS](./projetos/fundamentos-dns/README.md) | Redes e serviços | Registros DNS, resolução de nomes, TTL e nslookup |
 | [Análise de Requisições e Respostas HTTP](./projetos/fundamentos-http/README.md) | Web e protocolos | URLs, métodos HTTP, status, cabeçalhos e cookies |
 | [Administração e Segurança em Windows](./projetos/nocoes-basicas-windows/README.md) | Windows e suporte | Contas, autenticação, aplicativos, monitoramento e segurança |
@@ -92,7 +93,7 @@ Suporte N1/N2, gestão e priorização de chamados, SLA, troubleshooting, triage
 
 ### Segurança da Informação
 
-Gestão de acessos, permissões, autenticação, SSH, princípio do menor privilégio, análise de exposição de credenciais, hardening e fundamentos de segurança operacional.
+Gestão de acessos, permissões, autenticação, SSH, princípio do menor privilégio, análise de exposição de credenciais, hardening, fundamentos de segurança operacional, inspeção de código-fonte, análise de exposição de dados sensíveis, HTML Injection, sanitização de entrada, codificação de saída e fundamentos de segurança de aplicações web.
 
 ### Redes e infraestrutura
 
