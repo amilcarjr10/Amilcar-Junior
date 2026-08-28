@@ -19,7 +19,7 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 - Experiência com chamados, SLA, acessos, SQL, integrações, documentação e comunicação com clientes.
 - Formação em Análise e Desenvolvimento de Sistemas e Pós-Graduação concluída em Cibersegurança.
 - Estudos práticos documentados em Linux, redes, sistemas operacionais, cloud e segurança.
-- Portfólio com dez projetos técnicos organizados em contexto, atividades, competências e documentação.
+- Portfólio com onze projetos técnicos organizados em contexto, atividades, competências e documentação.
 
 ---
 
@@ -58,6 +58,15 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 - [README do projeto](./projetos/seguranca-web-front-end/README.md)
 - [Relatório completo em PDF](./projetos/seguranca-web-front-end/relatorio-seguranca-web-front-end.pdf)
 
+### 4. [Análise de Superfície Web e Auditoria de Autenticação](./projetos/auditoria-autenticacao-web/README.md)
+
+> Laboratório autorizado envolvendo enumeração de conteúdo, análise de formulário HTTP POST e auditoria controlada de autenticação. O projeto demonstra como descoberta de endpoints, senhas fracas e tentativas repetidas podem formar uma cadeia de risco, além de apresentar controles defensivos e possibilidades de detecção em SOC.
+
+**Competências:** Gobuster, Hydra, enumeração web, autenticação, HTTP POST, password guessing, rate limiting, análise de risco e detecção SOC.
+
+- [README do projeto](./projetos/auditoria-autenticacao-web/README.md)
+- [Relatório completo em PDF](./projetos/auditoria-autenticacao-web/relatorio-auditoria-autenticacao-web.pdf)
+
 ---
 
 ## Catálogo de projetos
@@ -70,6 +79,7 @@ Sou graduado em **Análise e Desenvolvimento de Sistemas** e pós-graduado em **
 | [Investigação de Segurança em Sistemas Linux](./projetos/seguranca-sistemas-operacionais/README.md) | Segurança da Informação | Autenticação, SSH, credenciais, privilégios e mitigação |
 | [Análise de Redes, Firewall, VPN e VLAN](./projetos/fundamentos-redes/README.md) | Redes e infraestrutura | Port forwarding, firewall, VPN, roteamento, switching e VLAN |
 | [Análise de Segurança Web no Front-end](./projetos/seguranca-web-front-end/README.md) | Segurança Web | DevTools, código-fonte, exposição de dados sensíveis, HTML Injection e mitigação |
+| [Análise de Superfície Web e Auditoria de Autenticação](./projetos/auditoria-autenticacao-web/README.md) | Segurança Web e SOC | Gobuster, Hydra, autenticação, HTTP POST, rate limiting e detecção |
 | [Análise e Troubleshooting de DNS](./projetos/fundamentos-dns/README.md) | Redes e serviços | Registros DNS, resolução de nomes, TTL e nslookup |
 | [Análise de Requisições e Respostas HTTP](./projetos/fundamentos-http/README.md) | Web e protocolos | URLs, métodos HTTP, status, cabeçalhos e cookies |
 | [Administração e Segurança em Windows](./projetos/nocoes-basicas-windows/README.md) | Windows e suporte | Contas, autenticação, aplicativos, monitoramento e segurança |
@@ -93,7 +103,7 @@ Suporte N1/N2, gestão e priorização de chamados, SLA, troubleshooting, triage
 
 ### Segurança da Informação
 
-Gestão de acessos, permissões, autenticação, SSH, princípio do menor privilégio, análise de exposição de credenciais, hardening, fundamentos de segurança operacional, inspeção de código-fonte, análise de exposição de dados sensíveis, HTML Injection, sanitização de entrada, codificação de saída e fundamentos de segurança de aplicações web.
+Gestão de acessos, permissões, autenticação, SSH, princípio do menor privilégio, análise de exposição de credenciais, hardening, fundamentos de segurança operacional, inspeção de código-fonte, análise de exposição de dados sensíveis, HTML Injection, sanitização de entrada, codificação de saída, fundamentos de segurança de aplicações web, Gobuster, Hydra, enumeração de conteúdo web, análise de autenticação, password guessing em laboratório autorizado, rate limiting, detecção de tentativas repetidas, OWASP A07, CWE-307, CWE-521 e MITRE ATT&CK T1110.001.
 
 ### Redes e infraestrutura
 
