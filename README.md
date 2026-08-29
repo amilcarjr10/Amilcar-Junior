@@ -123,6 +123,28 @@ SIEM, Wazuh, Sysmon, resposta a incidentes, MITRE ATT&CK, threat hunting, análi
 
 ---
 
+## 🎓 Certificações e trilhas concluídas
+
+### TryHackMe — Pre Security Learning Path
+
+- **Instituição:** TryHackMe
+- **Conclusão:** 29 de agosto de 2026
+- **Carga horária:** 19 horas e 10 minutos
+- **Conteúdo:** 7 módulos e 31 laboratórios práticos
+- **Competências desenvolvidas:** fundamentos de computadores, redes, Web, introdução à programação e conceitos iniciais de ataques e defesas cibernéticas
+- **Código da credencial:** `THM-IYLMBKWAIU2`
+- **Validação oficial:** [tryhackme.com/certificate/THM-IYLMBKWAIU2](https://tryhackme.com/certificate/THM-IYLMBKWAIU2)
+
+<p align="center">
+  <a href="https://tryhackme.com/certificate/THM-IYLMBKWAIU2">
+    <img src="assets/certificados/tryhackme-pre-security.png"
+         alt="Certificado de conclusão da trilha Pre Security Learning Path da TryHackMe"
+         width="650">
+  </a>
+</p>
+
+---
+
 ## Formação e desenvolvimento
 
 - **Pós-Graduação em Cibersegurança** — concluída na Faculdade Metropolitana.
